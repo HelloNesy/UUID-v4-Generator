@@ -17,7 +17,7 @@ This is a simple web-based UUID (Universally Unique Identifier) version 4 genera
 
 ## Preview
 
-![UUID v4 Generator Preview](https://replit.com/@nesymc/UUID-Generator)
+![UUID v4 Generator Preview](https://github.com/HelloNesy/UUID-v4-Generator/assets/161613904/c6119eeb-1178-4b94-a905-b67cb6f29978)
 
 ## Contributing
 
