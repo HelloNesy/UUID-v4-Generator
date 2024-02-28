@@ -12,7 +12,7 @@ This is a simple web-based UUID (Universally Unique Identifier) version 4 genera
 
 1. Open `index.html` in your web browser.
 2. Click the "Generate UUID" button to generate a single UUID.
-3. To generate multiple UUIDs at once, specify the desired quantity and click the "Generate UUIDs" button.
+3. To generate multiple UUIDs at once, specify the desired quantity and click the "Generate 5 UUIDs" button.
 4. The generated UUID(s) will be displayed on the page.
 
 ## Preview
